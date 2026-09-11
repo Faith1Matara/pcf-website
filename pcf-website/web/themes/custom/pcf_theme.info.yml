@@ -1,0 +1,7 @@
+name: PCF Theme
+type: theme
+description: Custom theme for the Policyholders Compensation Fund
+core_version_requirement: ^10 || ^11
+base theme: false
+libraries:
+  - pcf_theme/global-styling
